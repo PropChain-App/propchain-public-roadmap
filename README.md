@@ -1,4 +1,3 @@
-```markdown
 # PropChain Public Roadmap 📈
 
 > **🚧 Internal-Use Only – Not Open Source**  
@@ -114,6 +113,3 @@ Copyright © PropChain LLC.
 No license is granted to view, modify, or distribute outside PropChain.
 
 ---
-
-```
-```
