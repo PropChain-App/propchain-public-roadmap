@@ -21,7 +21,7 @@ Whether you're buying, selling, upgrading, or tracking your home’s value — s
 ## Table of Contents
 1. [Purpose](#purpose)
 2. [Key Features](#key-features)
-3. [PropChain Product Development Roadmap](#propChain-product-development-roadmap)
+3. [PropChain Product Development Roadmap](#product-development)
 7. [Contributing](#contributing)
 8. [Contact](#contact)
 9. [License](#license)  
