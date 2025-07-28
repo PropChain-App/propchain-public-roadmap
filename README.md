@@ -46,10 +46,7 @@ It contains **no application source code**; only planning artifacts and lightwei
 * 🎨 **Curb Appeal Insights** – Understand how a property's first impression impacts its readiness and value.
 * 🧱 **Renovation Simulator** – Tools to visualize improvement potential and model return-on-upgrade scenarios.
 
-**Built for:** 🏠 Homebuyers, 🧑‍💼 Sellers, 🧓 Homeowners, 📈 Agents, 📜 Lenders, 🧠 Investors
-
-
-**Built for:** 🏡 Homebuyers, 🏢 Sellers, 🧑‍🧑‍🧑 Homeowners, 📈 Agents, 📜 Lenders, 🧠 Investors
+**Built for:** 👀 Everyday Property, Neighborhood & Market Browers, 🏡 Homebuyers, 🏢 Sellers, 🧑‍🧑‍🧑 Homeowners, 📈 Agents,🧑‍⚖️ Title Attorneys, 📜 Lenders, 🧠 Investors (more to come later!)
 
 ---
 
