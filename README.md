@@ -50,7 +50,7 @@ It contains **no application source code**; only planning artifacts and lightwei
 
 ---
 
-## 🚀 PropChain Product Development Roadmap
+## 🚀 Product Development
 
 |    | Workstream               | Key Deliverables                                      | Milestone | Estimated Delivery Window   | Notes / Dependencies               |
 |---------|--------------------------|-------------------------------------------------------|-----------|------------------------------|------------------------------------|
