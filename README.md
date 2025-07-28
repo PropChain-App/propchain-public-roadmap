@@ -68,7 +68,8 @@ It contains **no application source code**; only planning artifacts and lightwei
 ---
 
 ## 🤝 Contributing
-- 📊 View Development Roadmap: [GitHub Project](https://github.com/orgs/PropChain-App/projects/17)
+- 📊 [View Development Roadmap Kanban](https://github.com/orgs/PropChain-App/projects/17)
+- 💡 [View Progress Insights](https://github.com/orgs/PropChain-App/projects/17/insights)
 
 ---
 
