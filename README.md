@@ -36,15 +36,18 @@ It contains **no application source code**; only planning artifacts and lightwei
 ---
 
 ## 🔧 Key Features
-- 🧠 **AI Valuation Engine** – Real-time property value forecasting using LSTM, ARIMA, and Random Forest models.
-- 🌍 **Terra Net** – A normalized, RESO-compliant property data pipeline aggregating MLS, tax, zoning, and geospatial datasets.
-- 📈 **PropPredict** – Market trend forecasts to guide investment timing and location decisions.
-- 🗺 **Geospatial Filtering** – Hyper-local search tools with distance-based and community-feature-based filters.
-- 🔐 **Blockchain-Based Data Integrity** – An immutable source of truth ensuring trustworthy audit trails, secure record-keeping, and verifiable property history.
-- 📲 **Cross-Platform Mobile App** – Built with Flutter, React Native, and native hooks for iOS and Android.
-- 🏡 **ArchiSpect** – AI-powered visual identification of architectural style and structure.
-- 🎨 **CurbValue** – Real-time aesthetic and market readiness scoring with improvement suggestions.
-- 🎭 **CurbCraft** – Interactive 3D renovation simulation and ROI prediction.
+* 🧠 **AI-Enhanced Valuations** – Dynamic property pricing insights powered by predictive intelligence.
+* 🌐 **Unified Property Data Layer** – A harmonized system for integrating and structuring real estate data across sources.
+* 📊 **Market Timing Intelligence** – Tools to help identify optimal moments to buy, sell, or hold based on local and macro indicators.
+* 🗺️ **Hyperlocal Search Filters** – Find properties using intuitive location-based and community-aware filters.
+* 🔐 **Verifiable Property Records** – Technology-backed validation for property ownership, history, and data integrity.
+* 📱 **Multi-Platform Experience** – Built for mobile-first experiences across iOS, Android, and web.
+* 🏛️ **Architectural Intelligence** – Visual identification and tagging of design attributes at scale.
+* 🎨 **Curb Appeal Insights** – Understand how a property's first impression impacts its readiness and value.
+* 🧱 **Renovation Simulator** – Tools to visualize improvement potential and model return-on-upgrade scenarios.
+
+**Built for:** 🏠 Homebuyers, 🧑‍💼 Sellers, 🧓 Homeowners, 📈 Agents, 📜 Lenders, 🧠 Investors
+
 
 **Built for:** 🏡 Homebuyers, 🏢 Sellers, 🧑‍🧑‍🧑 Homeowners, 📈 Agents, 📜 Lenders, 🧠 Investors
 
