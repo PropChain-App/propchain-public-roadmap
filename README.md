@@ -36,6 +36,7 @@ It contains **no application source code**; only planning artifacts and lightwei
 ---
 
 ## 🔧 Key Features
+
 * 🧠 **AI-Enhanced Valuations** – Dynamic property pricing insights powered by predictive intelligence.
 * 🌐 **Unified Property Data Layer** – A harmonized system for integrating and structuring real estate data across sources.
 * 📊 **Market Timing Intelligence** – Tools to help identify optimal moments to buy, sell, or hold based on local and macro indicators.
